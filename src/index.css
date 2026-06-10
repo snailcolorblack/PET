@@ -1,2 +1,7 @@
 @import "tailwindcss";
 @import "@heroui/styles";
+
+/*
+Хз нужны ли тут layers... по сути все на tailwind + HeroUI делать нужно
+Но если что я в курсе как работае @layer() и @container()
+*/
