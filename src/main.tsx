@@ -7,7 +7,6 @@ import './index.css'
 
 
 const queryClient = new QueryClient()
-/* === Я НЕ СТАЛ ПИСАТЬ ДОП ОПЦИИ СЮДА === */
 
 createRoot(document.getElementById('root')!).render(
     <StrictMode>
